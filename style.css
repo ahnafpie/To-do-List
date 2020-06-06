@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  padding-top: 100px;
+  background-color: rgba(255, 255, 255, 0.185);
+}
+
+h1 {
+  color: #000000;
+}
+#button {
+  background-color: black;
+  color: white;
+  border-color: black;
+  border-radius: 3px;
+}
+.item {
+  margin: auto;
+  height: 25px;
+  width: 220px;
+  background-color: #000000;
+  margin-top: 10px;
+  display: flex;
+  border-radius: 3px;
+}
+.itemText {
+  margin: auto 10px;
+  color: white;
+}
+
+.remove {
+  margin-left: auto;
+  background-color: white;
+  border-color: black;
+  border-radius: 3px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: white;
+}
